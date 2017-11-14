@@ -34,7 +34,7 @@ public class NegativeSubarrayFinder {
         int count = 0;
         for (int i = 0; i < length; i++) {
             sum = 0;
-            for (int j = i; j < length; j++) {
+            for (int j = i; j < length; j++) {  //checks the list wrt "i"
                 sum = sum + array[j];
                 if (sum < 0) {
                     count++;
