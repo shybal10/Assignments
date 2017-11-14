@@ -41,6 +41,7 @@ public class AnagramChecker {
      */
     private static int[] generateHistogram(String word) {
         int[] histogramCountWord = new int[26];
+//        todo: Brute force sucks...
         for (int i = 0; i < word.length(); i++) {
             int j = 0;
             for (char character = 'a'; character <= 'z'; character++ ) {
