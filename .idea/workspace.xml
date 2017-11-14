@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4472349-88c5-4927-ac00-49e0370dbded" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlternatingCharacters/AlternatingCharacters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/NegativeSubarrayFinder/NegativeSubarrayFinder.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlternatingCharacters/AlternatingCharacters.iml" afterPath="$PROJECT_DIR$/AlternatingCharacters/AlternatingCharacters.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NegativeSubarrayFinder/NegativeSubarrayFinder.iml" afterPath="$PROJECT_DIR$/NegativeSubarrayFinder/NegativeSubarrayFinder.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="out/" />
@@ -19,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AlternatingCharacters.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AlternatingCharacters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AlternatingCharacters/src/AlternatingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -27,6 +24,28 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnagramChecker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AnagramChecker/src/AnagramChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-258">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnagramChecker.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AnagramChecker/AnagramChecker.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="70" lean-forward="false" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,6 +93,9 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/AlternatingCharacters/src/AlternatingCharacters.java" />
         <option value="$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java" />
+        <option value="$PROJECT_DIR$/AnangramChecker/src/AnagramChecker.java" />
+        <option value="$PROJECT_DIR$/AnagramChecker/AnagramChecker.iml" />
+        <option value="$PROJECT_DIR$/AnagramChecker/src/AnagramChecker.java" />
       </list>
     </option>
   </component>
@@ -111,6 +133,17 @@
               <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assignments" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="AnagramChecker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="AnagramChecker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -137,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlternatingCharacters">
+  <component name="RunManager" selected="Application.AnagramChecker">
     <configuration name="AlternatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="AlternatingCharacters" />
@@ -150,6 +183,20 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="AlternatingCharacters" />
+      <envs />
+    </configuration>
+    <configuration name="AnagramChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="AnagramChecker" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AnagramChecker" />
       <envs />
     </configuration>
     <configuration name="NegativeSubarrayFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -247,14 +294,16 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.NegativeSubarrayFinder" />
       <item index="1" class="java.lang.String" itemvalue="Application.AlternatingCharacters" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AnagramChecker" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.AlternatingCharacters" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NegativeSubarrayFinder" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.AnagramChecker" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AlternatingCharacters" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NegativeSubarrayFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -276,6 +325,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -285,13 +335,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36391914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2643857" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3452566" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3437014" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25896415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25896415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -311,7 +361,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="17" />
+      <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -354,6 +404,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnagramChecker/AnagramChecker.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="70" lean-forward="false" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnagramChecker/src/AnagramChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -412,7 +480,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>NegativeSubarrayFinder</last-edited>
+          <last-edited>AnangramChecker</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
