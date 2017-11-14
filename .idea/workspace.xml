@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4472349-88c5-4927-ac00-49e0370dbded" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/NegativeSubarrayFinder/NegativeSubarrayFinder.class" afterPath="$PROJECT_DIR$/out/production/NegativeSubarrayFinder/NegativeSubarrayFinder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java" afterPath="$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java" />
     </list>
@@ -15,83 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <file leaf-file-name="AlternatingCharacters.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AlternatingCharacters/src/AlternatingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="144">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
-                <marker date="1510659800655" expanded="true" signature="27765:27782" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="27765:27800" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="27765:27813" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="27765:27828" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="27863:30369" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="27876:30354" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="27930:28225" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="27949:28210" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28012:28190" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28052:28156" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28073:28134" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28275:28602" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28294:28587" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28389:28567" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28429:28533" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28450:28511" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28653:28918" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28672:28903" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28705:28883" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28745:28849" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28766:28827" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28961:29267" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="28980:29252" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29054:29232" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29094:29198" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29115:29176" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29318:29682" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29337:29667" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29430:29647" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29470:29613" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29491:29591" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29717:30023" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29736:30008" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29810:29988" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29850:29954" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="29871:29932" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="30075:30340" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="30094:30325" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="30127:30305" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="30167:30271" ph="..." />
-                <marker date="1510659800655" expanded="true" signature="30188:30249" ph="..." />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NegativeSubarrayFinder.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NegativeSubarrayFinder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="36" column="73" lean-forward="false" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
+            <state relative-caret-position="31">
+              <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,6 +50,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/out</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -120,6 +70,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/AlternatingCharacters/src/AlternatingCharacters.java" />
         <option value="$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java" />
       </list>
     </option>
@@ -158,11 +109,6 @@
               <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assignments" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="NegativeSubarrayFinder" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -174,6 +120,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,7 +134,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NegativeSubarrayFinder">
+  <component name="RunManager" selected="Application.AlternatingCharacters">
+    <configuration name="AlternatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="AlternatingCharacters" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlternatingCharacters" />
+      <envs />
+    </configuration>
     <configuration name="NegativeSubarrayFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="NegativeSubarrayFinder" />
@@ -283,9 +244,14 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.NegativeSubarrayFinder" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AlternatingCharacters" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.NegativeSubarrayFinder" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.AlternatingCharacters" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NegativeSubarrayFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +273,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -314,26 +281,26 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36486486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36391914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34534535" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452566" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25896415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3813814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38102645" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -347,10 +314,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -363,60 +330,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <marker date="1510659800655" expanded="true" signature="27765:27782" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="27765:27800" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="27765:27813" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="27765:27828" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="27863:30369" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="27876:30354" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="27930:28225" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="27949:28210" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28012:28190" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28052:28156" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28073:28134" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28275:28602" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28294:28587" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28389:28567" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28429:28533" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28450:28511" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28653:28918" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28672:28903" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28705:28883" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28745:28849" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28766:28827" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28961:29267" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="28980:29252" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29054:29232" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29094:29198" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29115:29176" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29318:29682" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29337:29667" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29430:29647" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29470:29613" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29491:29591" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29717:30023" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29736:30008" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29810:29988" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29850:29954" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="29871:29932" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="30075:30340" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="30094:30325" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="30127:30305" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="30167:30271" ph="..." />
-            <marker date="1510659800655" expanded="true" signature="30188:30249" ph="..." />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="36" column="73" lean-forward="false" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
+        <state relative-caret-position="31">
+          <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlternatingCharacters/src/AlternatingCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -475,7 +410,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>NegativeSubarrayFinder</last-edited>
+          <last-edited>AlternatingCharacters</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

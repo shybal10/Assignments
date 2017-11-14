@@ -27,7 +27,7 @@ public class NegativeSubarrayFinder {
      * finds the number of negative sub arrays
      * @param array the given list of elements
      * @param length the length of the array
-     * @return
+     * @return the number of negative sub arrays
      */
     private static int getNegSubArrays(int[] array, int length) {
         int sum;
