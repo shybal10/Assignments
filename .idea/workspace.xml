@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4472349-88c5-4927-ac00-49e0370dbded" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NegativeSubarrayFinder/NegativeSubarrayFinder.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,6 +14,101 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding>
+                <marker date="1510658797599" expanded="true" signature="30412:30429" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30412:30447" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30412:30460" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30412:30475" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30510:33016" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30523:33001" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30577:30872" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30596:30857" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30659:30837" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30699:30803" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30720:30781" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30922:31249" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="30941:31234" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31036:31214" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31076:31180" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31097:31158" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31300:31565" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31319:31550" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31352:31530" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31392:31496" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31413:31474" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31608:31914" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31627:31899" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31701:31879" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31741:31845" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31762:31823" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31965:32329" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="31984:32314" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32077:32294" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32117:32260" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32138:32238" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32364:32670" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32383:32655" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32457:32635" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32497:32601" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32518:32579" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32722:32987" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32741:32972" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32774:32952" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32814:32918" ph="..." />
+                <marker date="1510658797599" expanded="true" signature="32835:32896" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NegativeSubarrayFinder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -20,13 +117,23 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="284" />
     <option name="y" value="-4" />
     <option name="width" value="855" />
     <option name="height" value="716" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -52,12 +159,22 @@
               <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assignments" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="NegativeSubarrayFinder" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,7 +188,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NegativeSubarrayFinder">
+    <configuration name="NegativeSubarrayFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="NegativeSubarrayFinder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NegativeSubarrayFinder" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -153,9 +284,17 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.NegativeSubarrayFinder" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -168,27 +307,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="284" y="-4" width="1303" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36486486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33033034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3813814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -202,14 +343,203 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <marker date="1510658797599" expanded="true" signature="30412:30429" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30412:30447" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30412:30460" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30412:30475" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30510:33016" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30523:33001" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30577:30872" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30596:30857" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30659:30837" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30699:30803" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30720:30781" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30922:31249" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="30941:31234" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31036:31214" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31076:31180" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31097:31158" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31300:31565" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31319:31550" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31352:31530" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31392:31496" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31413:31474" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31608:31914" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31627:31899" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31701:31879" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31741:31845" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31762:31823" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31965:32329" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="31984:32314" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32077:32294" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32117:32260" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32138:32238" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32364:32670" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32383:32655" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32457:32635" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32497:32601" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32518:32579" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32722:32987" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32741:32972" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32774:32952" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32814:32918" ph="..." />
+            <marker date="1510658797599" expanded="true" signature="32835:32896" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NegativeSubarrayFinder/src/NegativeSubarrayFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NegativeSubarrayFinder</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
