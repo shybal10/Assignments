@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/AnagramChecker/AnagramChecker.iml" filepath="$PROJECT_DIR$/AnagramChecker/AnagramChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments.iml" filepath="$PROJECT_DIR$/Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeautifulStrings/BeautifulStrings.iml" filepath="$PROJECT_DIR$/BeautifulStrings/BeautifulStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combinations/Combinations.iml" filepath="$PROJECT_DIR$/Combinations/Combinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/NegativeSubarrayFinder/NegativeSubarrayFinder.iml" filepath="$PROJECT_DIR$/NegativeSubarrayFinder/NegativeSubarrayFinder.iml" />
     </modules>
   </component>
