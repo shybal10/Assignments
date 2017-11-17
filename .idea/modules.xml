@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/CorrectChangeCalculator/CorrectChangeCalculator.iml" filepath="$PROJECT_DIR$/CorrectChangeCalculator/CorrectChangeCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTweeker/DataTweeker.iml" filepath="$PROJECT_DIR$/DataTweeker/DataTweeker.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunnyStringValidator/FunnyStringValidator.iml" filepath="$PROJECT_DIR$/FunnyStringValidator/FunnyStringValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessingGame/GuessingGame.iml" filepath="$PROJECT_DIR$/GuessingGame/GuessingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/MonthlyPayment/MonthlyPayment.iml" filepath="$PROJECT_DIR$/MonthlyPayment/MonthlyPayment.iml" />
       <module fileurl="file://$PROJECT_DIR$/NegativeSubarrayFinder/NegativeSubarrayFinder.iml" filepath="$PROJECT_DIR$/NegativeSubarrayFinder/NegativeSubarrayFinder.iml" />
     </modules>
