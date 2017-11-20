@@ -1,9 +1,19 @@
 import java.util.Scanner;
 
+/**
+ * class checks the validity of the password set by the user based on
+ * some pre-requisite conditions
+ * @author shybal
+ * @version 1.0
+ */
 public class PasswordChecker {
     public static void main(String[] args) {
         validatePassword();
     }
+
+    /**
+     * the function responsible for checking the validity of the password
+     */
     private static void validatePassword() {
         while (true) {
             boolean containsCapitalLetters = false;

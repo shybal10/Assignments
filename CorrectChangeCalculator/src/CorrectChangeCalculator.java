@@ -1,5 +1,5 @@
 /**
- * returns the change in terms of dollars cents and dimes
+ * returns the change in terms of moneyAvailable cents and dimes
  * @author shybal
  * @version
  */
@@ -13,10 +13,10 @@ public class CorrectChangeCalculator {
      * @param totalCents is the total money
      */
     private static void getChangeDue(int totalCents) {
-        int dollars = totalCents/100;
-        int quarters = (totalCents - (dollars * 100))/25;
-        int dimes = (totalCents - (dollars * 100) - (quarters * 25))/10;
-        int nickel = (totalCents - (dollars * 100) - (quarters * 25) - (dimes * 10))/5;
-        System.out.println("dollars:"+dollars+"\t"+"quarters:"+quarters+"\t"+"dimes:"+dimes+"\t"+"nickel:"+nickel);
+        int moneyAvailable = totalCents/100;
+        int quarters = (totalCents - (moneyAvailable * 100))/25;
+        int dimes = (totalCents - (moneyAvailable * 100) - (quarters * 25))/10;
+        int nickel = (totalCents - (moneyAvailable * 100) - (quarters * 25) - (dimes * 10))/5;
+        System.out.println("moneyAvailable:"+moneyAvailable+"\t"+"quarters:"+quarters+"\t"+"dimes:"+dimes+"\t"+"nickel:"+nickel);
     }
 }
