@@ -11,13 +11,27 @@ public class AnagramChecker {
         Scanner input = new Scanner(System.in);
         String word1 = input.next();
         String word2 = input.next();
-        if(isAnangram(word1,word2)) {
+        if(checkAnagramWithoutBruteForce(word1,word2)) {
             System.out.println("the words are Anagrams");
         } else {
             System.out.println("the words are not Anagrams");
         }
     }
 
+    /**
+     * checks if the words are Anagrams efficiently
+     * @param word1 is an input string
+     * @param word2 is an input string
+     * @return true if they are Anagrams
+     */
+    private static boolean checkAnagramWithoutBruteForce(String  word1, String word2) {
+        for (int i = 0; i < word1.length(); i++) {
+            if (word2.indexOf(word1.charAt(i)) < 0 || word1.indexOf(word2.charAt(i)) < 0) {
+                return false;
+            }
+        }
+        return true;
+    }
     /**
      * checks if the inputs are Anagrams
      * @param word1 is an input string
@@ -41,7 +55,6 @@ public class AnagramChecker {
      */
     private static int[] generateHistogram(String word) {
         int[] histogramCountWord = new int[26];
-//        todo: Brute force sucks...
         for (int i = 0; i < word.length(); i++) {
             int j = 0;
             for (char character = 'a'; character <= 'z'; character++ ) {
