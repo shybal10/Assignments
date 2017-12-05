@@ -25,6 +25,7 @@ public class AnagramChecker {
      * @return true if they are Anagrams
      */
     private static boolean checkAnagramWithoutBruteForce(String  word1, String word2) {
+        // todo: does not work for different frequencies of the same letter
         for (int i = 0; i < word1.length(); i++) {
             if (word2.indexOf(word1.charAt(i)) < 0 || word1.indexOf(word2.charAt(i)) < 0) {
                 return false;
@@ -41,8 +42,8 @@ public class AnagramChecker {
     private static boolean isAnangram(String word1, String word2) {
         int[] histogramCountWord1;
         int[] histogramCountWord2;
-        histogramCountWord1 = generateHistogram(word1);
-        histogramCountWord2 = generateHistogram(word2);
+        histogramCountWord1 = generateHistogram(word1.toLowerCase());
+        histogramCountWord2 = generateHistogram(word2.toLowerCase());
        // System.out.println(Arrays.toString(histogramCountWord1));
        // System.out.println(Arrays.toString(histogramCountWord2));
         return Arrays.equals(histogramCountWord1,histogramCountWord2);

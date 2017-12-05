@@ -9,7 +9,7 @@ public class CorrectChangeCalculator {
     }
 
     /**
-     * gives the change interms of dollar, cents, nickel and dimes
+     * gives the change in terms of dollar, cents, nickel and dimes
      * @param totalCents is the total money
      */
     private static void getChangeDue(int totalCents) {

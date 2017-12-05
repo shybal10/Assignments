@@ -21,6 +21,16 @@ public class NegativeSubarrayFinder {
         System.out.println(Arrays.toString(array));
         System.out.print("the number of negative sub arrays: ");
         System.out.println(getNegSubArrays(array,arrayLength));
+        Scanner scan = new Scanner(System.in);
+        String s = scan.nextLine();
+        int i = scan.nextInt();
+        double d = scan.nextDouble();
+
+        // Write your code here.
+
+        System.out.println("String: " + s);
+        System.out.println("Double: " + d);
+        System.out.println("Int: " + i);
     }
 
     /**
