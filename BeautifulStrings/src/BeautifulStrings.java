@@ -19,6 +19,6 @@ public class BeautifulStrings {
      * @return number of modifications
      */
     private static int getTotalMods(String string) {
-        return (string.length() - string.replaceAll("010", "").length()/3);
+        return ((string.length() - string.replaceAll("010", "").length())/3);
     }
 }
