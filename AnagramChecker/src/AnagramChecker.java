@@ -26,12 +26,19 @@ public class AnagramChecker {
      */
     private static boolean checkAnagramWithoutBruteForce(String  word1, String word2) {
         // todo: does not work for different frequencies of the same letter
-        for (int i = 0; i < word1.length(); i++) {
-            if (word2.indexOf(word1.charAt(i)) < 0 || word1.indexOf(word2.charAt(i)) < 0) {
-                return false;
+        if (word1.length() == word2.length()) {
+            for (int i = 0; i < word1.length(); i++) {
+                if (word2.indexOf(word1.charAt(i)) < 0 || word1.indexOf(word2.charAt(i)) < 0) {
+                    return false;
+                }
             }
+            String shybal = "shybal";
+
+            return true;
         }
-        return true;
+        else {
+            return false;
+        }
     }
     /**
      * checks if the inputs are Anagrams
