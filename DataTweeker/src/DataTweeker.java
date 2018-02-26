@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 /**
  * find new average PH levels after removing distant values
@@ -32,15 +31,15 @@ public class DataTweeker {
      * @return the new average as array of doubles
      */
     private static double getNewAverage(double[] values, double mostDistantValue) {
-        double newAverage = 0;
-        Arrays.sort(values);
-        int index = Arrays.binarySearch(values,mostDistantValue);
-        for (int i = 0; i < values.length; i++) {
-            if (i != index) {
-                newAverage = newAverage + values[i];
+        double newSum = 0;
+        //Arrays.sort(values);
+        //int index = Arrays.binarySearch(values,mostDistantValue);
+        for (double value : values) {
+            if (value != mostDistantValue) {
+                newSum = newSum + value;
             }
         }
-        return newAverage/(values.length-1);
+        return newSum/(values.length-1);
     }
 
     /**
@@ -67,10 +66,10 @@ public class DataTweeker {
      * @return the average value
      */
     private static double getAverage(double[] values) {
-        double average = 0;
-        for (int i = 0; i < values.length; i ++) {
-            average = average + values[i];
+        double sum = 0;
+        for (double value : values) {
+            sum = sum + value;
         }
-        return average / values.length;
+        return sum / values.length;
     }
 }
